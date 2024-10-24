@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Dashboard FUSE Bhima Climate
 PB 01/12/2022
+update 24/10/24
 
 [![latest](https://img.shields.io/github/last-commit/iiasa/CWatM_Bhima)](https://github.com/iiasa/CWatM_Bhima)
 [![license](https://img.shields.io/github/license/iiasa/CWatM_Bhima?color=1)](https://github.com/iiasa/CWatM_Bhima/blob/main/LICENSE)
