@@ -24,13 +24,12 @@ It brings together scientists, engineers, economists, and stakeholder engagement
 
 The webtool on https://fuse-bhima-climate.herokuapp.com/ shows the climate change variability and uncertainty for the upper Bhima basin.
 The tool holds the data for RCPs 4.5 and 8.5, including three General Circulation Models (GCMs) and an average of the two RCPs and three GCMs.
-For different dicstricts and tehsils the change of climate variables are displayed between 1990-2020 and 2025-2055.
+For different districts and tehsils the change of climate variables is displayed between 1990-2020 and 2025-2055.
 
-For temperature the change in average temperature but also the change in numbers of days with max temperature >= 38 deg C or >= 40 deg C are shown.
-For precipitation the change in average precipitation and the change in numbers of days with no rain or days with heavy rain >=20mm, >=50mm, >=100mm are shown.
+For temperature, the change in average temperature but also the change in numbers of days with max temperature >= 38 deg C or >= 40 deg C are shown.
+For precipitation, the change in average precipitation and the change in numbers of days with no rain or days with heavy rain >=20mm, >=50mm, >=100mm are shown.
 
-For a web application we are limited by the memory used to load results in time. 
-Therefore the bias-corrected GCMs GFDL-ESM2M, MIROC5, MPI_REMO200 are a selection from 10 different climate model runs.
+For a web application we are limited by the memory used to load results in time. Therefore the bias-corrected GCMs GFDL-ESM2M, MIROC5, MPI_REMO2009 are a selection from 8 different climate model runs.
 
 ## Readme
 
