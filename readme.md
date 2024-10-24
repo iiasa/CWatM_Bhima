@@ -1,4 +1,5 @@
 # Dashboard FUSE Bhima Climate
+PB 01/12/2022
 
 [![latest](https://img.shields.io/github/last-commit/iiasa/CWatM_Bhima)](https://github.com/iiasa/CWatM_Bhima)
 [![license](https://img.shields.io/github/license/iiasa/CWatM_Bhima?color=1)](https://github.com/iiasa/CWatM_Bhima/blob/main/LICENSE)
@@ -85,28 +86,8 @@ In the directory should be:
 
 P:/watmodel/dashboards/fuse_bhima/venv/Scripts/python app.py
 
-8) First time deploy to heroku 
 
-- heroku login 
-- heroku create xxxxxxxxx  # change my-dash-app to a unique name -> only small letters no underscore
-- git add . # add all files to git
-- git commit -m 'Initial app water1'
-- git push heroku main # deploy code to heroku
-- heroku ps:scale web=1  # run the app with a 1 heroku "dyno"
 
-You should be able to view your app at https://fuse-bhima-climate.herokuapp.com/
-
-if errors:
-
-- heroku logs --tail
-- heroku logs > log1.txt
-
-8) OR
-   
-- commit to iiiasa github
-- Login https://dashboard.heroku.com/apps
-- https://dashboard.heroku.com/apps/fuse-bhima-climate/deploy/github
-- Connected to iiasa/CWatM_Bhima by CWatM CWatM
 
 
    
